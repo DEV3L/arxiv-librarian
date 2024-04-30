@@ -8,6 +8,8 @@ Dr. Alistair Grey, also known as the "Arxiv Librarian," simplifies the overwhelm
 
 His persona can be found [here](persona.md).
 
+---
+
 [Assistants API Beta](https://platform.openai.com/docs/assistants/overview)
 
 [arXiv - Computer Science - Artificial Intelligence](https://arxiv.org/list/cs.AI/recent)
